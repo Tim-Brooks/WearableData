@@ -60,7 +60,7 @@ tidyData <- function() {
   data
 }
 
-run <- function() {
+runDataScript <- function() {
   data <- tidyData()
   summary <- summarizeData(data)
   writeFile(data, "tidy_data.txt")
