@@ -5,7 +5,7 @@ WearableData
 # How to use
 In order to tidy the data take the following steps:
 1. Ensure that the UCI HAR Dataset directory is in your working directory. Additionally, folder subfolder structure should be unchanged.
-2. Load the run_analysis.R script into your workspace with source("run_analysis.R")
+2. Load the run_analysis.R script into your workspace with source("run_analysis.R").
 3. Run the runDataScript() function. There are no arguments provided to this function.
 4. This will generate two files in your working directory. A "tidy_data.txt" file and a "summary.txt" file.
 
