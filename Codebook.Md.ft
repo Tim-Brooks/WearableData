@@ -1,0 +1,141 @@
+Code Book
+Subject
+	An integer 1-30. Indicates which subject the data was collected on.
+
+Activity
+	One of the following:
+	{WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING}
+	Indicates what activity was being performed when the data was colleced.
+	
+tBodyAcc_mean_X
+	A numeric value indicating the raw mean triaxial body acceleration in the X axis.
+																
+tBodyAcc_mean_Y
+	A numeric value indicating the raw mean triaxial body acceleration in the Y axis.
+tBodyAcc_mean_Z
+	A numeric value indicating the raw mean triaxial body acceleration in the Z axis.
+
+tBodyAcc_std_X
+	A numeric value indicating the raw mean triaxial body acceleration in the X axis.
+	
+tBodyAcc_std_Y
+	A numeric value indicating the raw standard deviation triaxial body acceleration in the Y axis.
+	
+tBodyAcc_std_Z
+	A numeric value indicating the raw standard deviation triaxial body acceleration in the Z axis.
+	
+tGravityAcc_mean_X
+	A numeric value indicating the raw mean triaxial gravity acceleration in the X axis.
+	
+tGravityAcc_mean_Y
+	A numeric value indicating the raw mean triaxial gravity acceleration in the Y axis.
+	
+tGravityAcc_mean_Z
+	A numeric value indicating the raw mean triaxial gravity acceleration in the Z axis.
+	
+tGravityAcc_std_X
+	A numeric value indicating the raw standard deviation triaxial gravity acceleration in the X axis.
+	
+tGravityAcc_std_Y
+	A numeric value indicating the raw standard deviation triaxial gravity acceleration in the Y axis.
+	
+tGravityAcc_std_Z
+	A numeric value indicating the raw standard deviation triaxial gravity acceleration in the Z axis.
+	
+tBodyAccJerk_mean_X
+	A numeric value indicating the raw mean triaxial jerk acceleration in the X axis.
+	
+tBodyAccJerk_mean_Y
+	A numeric value indicating the raw mean triaxial jerk acceleration in the Y axis.
+
+tBodyAccJerk_mean_Z
+	A numeric value indicating the raw mean triaxial jerk acceleration in the Z axis.
+
+tBodyAccJerk_std_X
+	A numeric value indicating the raw standard deviation triaxial jerk acceleration in the X axis.
+	
+tBodyAccJerk_std_Y
+	A numeric value indicating the raw standard deviation triaxial jerk acceleration in the Y axis.
+	
+tBodyAccJerk_std_Z
+	A numeric value indicating the raw standard deviation triaxial jerk acceleration in the Z axis.
+	
+tBodyGyro_mean_X
+	A numeric value indicating the raw mean triaxial body gyroscope readings in the X axis.
+	
+tBodyGyro_mean_Y
+	A numeric value indicating the raw mean triaxial body gyroscope readings in the Y axis.
+	
+tBodyGyro_mean_Z
+	A numeric value indicating the raw mean triaxial body gyroscope readings in the Z axis.
+	
+tBodyGyro_std_X
+	A numeric value indicating the raw standard deviation of triaxial body gyroscope readings in the X axis.
+	
+tBodyGyro_std_Y
+	A numeric value indicating the raw standard deviation of triaxial body gyroscope readings in the Y axis.
+	
+tBodyGyro_std_Z
+	A numeric value indicating the raw standard deviation of triaxial body gyroscope readings in the Z axis.
+	
+tBodyGyroJerk_mean_X
+	A numeric value indicating the raw mean of triaxial jerk gyroscope readings in the X axis.
+	
+tBodyGyroJerk_mean_Y
+	A numeric value indicating the raw mean of triaxial jerk gyroscope readings in the Y axis.
+	
+tBodyGyroJerk_mean_Z
+	A numeric value indicating the raw mean of triaxial jerk gyroscope readings in the Z axis.
+
+tBodyGyroJerk_std_X
+tBodyGyroJerk_std_Y
+tBodyGyroJerk_std_Z
+tBodyAccMag_mean
+tBodyAccMag_std
+tGravityAccMag_mean
+tGravityAccMag_std
+tBodyAccJerkMag_mean
+tBodyAccJerkMag_std
+tBodyGyroMag_mean
+tBodyGyroMag_std
+tBodyGyroJerkMag_mean
+tBodyGyroJerkMag_std
+fBodyAcc_mean_X
+fBodyAcc_mean_Y
+fBodyAcc_mean_Z
+fBodyAcc_std_X
+fBodyAcc_std_Y
+fBodyAcc_std_Z
+fBodyAcc_meanFreq_X
+fBodyAcc_meanFreq_Y
+fBodyAcc_meanFreq_Z
+fBodyAccJerk_mean_X
+fBodyAccJerk_mean_Y
+fBodyAccJerk_mean_Z
+fBodyAccJerk_std_X
+fBodyAccJerk_std_Y
+fBodyAccJerk_std_Z
+fBodyAccJerk_meanFreq_X
+fBodyAccJerk_meanFreq_Y
+fBodyAccJerk_meanFreq_Z
+fBodyGyro_mean_X
+fBodyGyro_mean_Y
+fBodyGyro_mean_Z
+fBodyGyro_std_X
+fBodyGyro_std_Y
+fBodyGyro_std_Z
+fBodyGyro_meanFreq_X
+fBodyGyro_meanFreq_Y
+fBodyGyro_meanFreq_Z
+fBodyAccMag_mean
+fBodyAccMag_std
+fBodyAccMag_meanFreq
+fBodyBodyAccJerkMag_mean
+fBodyBodyAccJerkMag_std
+fBodyBodyAccJerkMag_meanFreq
+fBodyBodyGyroMag_mean
+fBodyBodyGyroMag_std
+fBodyBodyGyroMag_meanFreq
+fBodyBodyGyroJerkMag_mean
+fBodyBodyGyroJerkMag_std
+fBodyBodyGyroJerkMag_meanFreq
